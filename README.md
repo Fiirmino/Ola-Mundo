@@ -1,15 +1,15 @@
-# Olá, pessoas!
+# Olá, pessoas 🖖!
 ---
 * Primeiro repositório do curso de **Git e GitHub**
 ## Linguagens
 ---
-*Aprendidas até o momento:*
-* Python
+📖*Aprendidas até o momento:*
+* Python 🐍
 * Markdown
 
-*Ainda quero aprender:*
-- [ ] Java
-- [ ] JavaScript
+📚*Ainda quero aprender:*
+- [ ] Java 
+- [ ] JavaScript 
 - [ ] TypeScript
 - [ ] PHP
 - [ ] C##
